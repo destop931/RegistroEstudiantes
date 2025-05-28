@@ -39,3 +39,14 @@ Crear una aplicación que permita registrar, visualizar y gestionar datos de est
 RegistroEstudiantes/
 ├── RegistroEstudiantes.java
 ├── README.md
+
+## 🔄 Control de Versiones
+
+El proyecto fue desarrollado de forma grupal (2personas)y gestionado con GitHub para registrar cada avance del desarrollo.
+
+---
+
+**Autor:** [kehiver guzman y bratan martinez]  
+**Curso:** Construcción de Software I  
+**Profesor(a):** [ivan dario zapata]  
+**Fecha:** Mayo 2025
